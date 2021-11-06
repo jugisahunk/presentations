@@ -75,20 +75,21 @@ Small changes are much less difficult, can be more orderly, a bit boring, less t
 
 But...is this agile? I would say so:
 
->Agile processes promote sustainable development.
-The sponsors, developers, and users should be able
+>Agile processes promote sustainable development.The sponsors, developers, and users should be able
 to maintain a constant pace indefinitely.
+
 I've told why I think small changes are more sustainable. Organizations need to balance the risk of their activities. Big risks can lead to big failures. Small risks lead to small failuers that are more palatable as learning experiences. The bigger the bet, the fewer you're inclined to take and the more unbalanced your approach. Eggs in one basket, and all that. Smaller bets means more bets, more "better" failures balanced with success. More baskets, fewer broken eggs. Still agile
 
->Continuous attention to technical excellence
-and good design enhances agility.
+>Continuous attention to technical excellenceand good design enhances agility.
+
 Continuous, not just during times of revolutionary improvemet. Not all technical improvements are small, but many are. Small improvements like introducing your first unit tests and getting those tests into a build and release pipline are fairly small, if you have a build and release pipeline. the Pipeline can be big. Uncle Bob's "Boy Scout Rule" in code is an example to continuous attention to technical excellence. Learning for 30 minutes each week adds up over time. Still agile.
 
->Simplicity--the art of maximizing the amount
-of work not done--is essential.
+>Simplicity--the art of maximizing the amountof work not done--is essential.
+
 Big change quickly risks all kinds of mistakes. Buy-in, oversights, unintended consequences, etc. Recovering from and reworking problems inherent in big-bang change is wasteful. All that time spent reworking, rearchitecting, and even rehiring is time and energy you could be spending on valuable work. If you have the time to spare, make the small, step by step improvements you need towards achieving the big goal over time. Still agile.
 
 >At regular intervals, the team reflects on how
+
 to become more effective, then tunes and adjusts
 its behavior accordingly.
 Small improvements occasionally are not sufficient to solve big, pervasive problems. Revolutionary change occasionally might (remember the risk). Small improvemets continuously can solve big, pervasive problems. Still agile.
