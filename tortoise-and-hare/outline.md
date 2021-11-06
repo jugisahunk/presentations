@@ -31,9 +31,13 @@
     2. "Drive"ing results
     3. Jealously guarding hope
 7. The Winning of the Race
-    1. The race as journey
+    1. The race as marathon
         1. Infiite game
+        2. Insist on commitment
+        3. Be agile like tortoise
     2. The race as life
-    3. The race as commitment
-    4. The race as marathon
-    5. The race we're winning (at BOKF)
+        1. Honor what is ending 
+        2. Nurture what is emerging 
+    3. The race we're running (at BOKF)
+        1. We're playing the game we want
+        2. We're winning
