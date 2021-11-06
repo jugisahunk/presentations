@@ -1,4 +1,4 @@
-# The Tortoise and the Hare
+   # The Tortoise and the Hare
 ## The Tortoise and the Hare (how continuous improvement can overtake rapid improvement)
 ## Trust the team (how I have to keep getting over myself and practice what I preach)
 ## Hope Springs Eternal (how servant leadership for me means guarding the hope others aren't ready to embrace)
@@ -147,6 +147,11 @@ If it ain't broke, don't fix it. Leave well enough alone. Inattention to results
 ### Abuse of authority -- poor leadership
 So you have a vision. "Do what I say, or else" undermines the power others are willing to give you. French and Raven's
 
+### Counterproductive incentive structure
+A bad system beats a good man every day. - Deming
+Any fool can make a short term profit.
+My personal success give me a raise; my team's success threatens my personal success
+
 ### What sustains improvement?
 
 #### Commitment and en(Courage)ment
@@ -161,6 +166,11 @@ There must be a reason to do the hard thing. Why suffer? Why not take it easy, b
 
 #### Right understanding of and exercise of entrusted power 
 ##### Is Only Given
+Being in charge means caring for those in your charge
+The servant as leader vs the leader as servant
+
+[The Servant as Leader](http://www.ediguys.net/Robert_K_Greenleaf_The_Servant_as_Leader.pdf)
+
 [6 Forms of Power](https://controlyourchaos.wordpress.com/2013/12/17/scrum-masters-toolkit-french-ravens-5-6-forms-of-power/)
 [Psychological Models in Scrum](https://www.youtube.com/watch?v=fyDYpGCuvaA&t=1322s)
 Gun to your head example.
