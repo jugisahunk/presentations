@@ -88,10 +88,9 @@ Continuous, not just during times of revolutionary improvemet. Not all technical
 
 Big change quickly risks all kinds of mistakes. Buy-in, oversights, unintended consequences, etc. Recovering from and reworking problems inherent in big-bang change is wasteful. All that time spent reworking, rearchitecting, and even rehiring is time and energy you could be spending on valuable work. If you have the time to spare, make the small, step by step improvements you need towards achieving the big goal over time. Still agile.
 
->At regular intervals, the team reflects on how
-
-to become more effective, then tunes and adjusts
+>At regular intervals, the team reflects on howto become more effective, then tunes and adjusts
 its behavior accordingly.
+
 Small improvements occasionally are not sufficient to solve big, pervasive problems. Revolutionary change occasionally might (remember the risk). Small improvemets continuously can solve big, pervasive problems. Still agile.
 
 ----------------------
