@@ -26,7 +26,7 @@
     3. No commitment
         1. Little quits
         2. The incentives that bind us
-6. The Sustaining Continuous Improvement 
+6. The Sustaining of Continuous Improvement 
     1. Gently weilding the power entrusted to us
     2. "Drive"ing results
     3. Jealously guarding hope
