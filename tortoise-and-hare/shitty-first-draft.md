@@ -123,3 +123,68 @@ Professional Scrum Development holds to a consistently high, even uncompromising
 Organizational change agents should hold to a consistently high, even uncompromising level of commitment leaving the those desiring change to flex on breadth and urgency. Waiting on genuine commitment from workers guards an organization from the false change, dishonesty and the division organizational debt inevitably brings. Additionally, a strict requirement for genuine leadership ensures managers are encouraged, even forced to expand their personal mastery of necessary skills and aptitudes. Moreover, those managers receive the pride of their workmanship and are afforded the time needed.
 
 The next time you, as a manager, force your underlings to just, “Do what I say” consider it the equivalent of an irresponsible, untested hack made made in production code that will probably cause more defects than it fixes.
+
+## What kills continuous improvements?
+
+### Little Quits
+It’s rare that one quits something big without first quitting many times on something small.
+
+Do you remember that essay project in school? It seemed so imposing until you wrote the first draft then got someone to give you feedback on it? Maybe it was something different, like quitting a habit. it seemed impossible until you saw a plan to ween yourself from a behavior and got someone to check up on your progress?
+
+If you’re like me, there are many little things that lead up to big things. Too often, I’m thwarted in the little things because I’m thinking of the big thing. The small thing is really not that hard but the big thing looms large and seems impossible. In these cases, I find myself quitting little and failing big.
+
+I propose that when I fail big it’s because I quit little; little quits led to a big quit. I didn’t believe in the big triumph and therefore couldn’t believe in the success of the little.
+
+What if we reversed it? What if we start believing in the importance of the little things that seem possible rather than the big things that feel out of reach? We may find we succeed more and more in the little things and end up succeeding more and more in the bigs.
+
+Start saying no to the little quits, and you start saying yes to the big successes.
+
+What are your little quits?
+
+### Lack of vision
+If it ain't broke, don't fix it. Leave well enough alone. Inattention to results. Complacency. Lack of courage and commitment. No vision means we focus on our feet rather than the horizon. Imagine trying to sail a ship that way!
+
+### Abuse of authority -- poor leadership
+So you have a vision. "Do what I say, or else" undermines the power others are willing to give you. French and Raven's
+
+### What sustains improvement?
+
+#### Commitment and en(Courage)ment
+It takes courage to keep going when you're tired or discouraged. Your hope is the driving force that motivates courageous action. Dedication to preserving hope and avoiding jaded attitude is necessary. If the vision is compelling enough, the committment will follow so long as the hope is alive and well. Guard hope, like a fire. Stoke it with vision, purpose, and belonging.
+
+#### Compelling Vision
+There must be a reason to do the hard thing. Why suffer? Why not take it easy, be apathetic and comfortable? Well, you may only be able to be apathetic and comfortable for a while practially speaking. 
+
+> 10 A little sleep, a little slumber, a little folding of the hands to rest, 11 and poverty will come upon you like a robber, and want like an armed man. - Proverbs 6:10-11
+
+[Which one is it?](https://www.linkedin.com/pulse/which-one-jason-knight/)
+
+#### Right understanding of and exercise of entrusted power 
+##### Is Only Given
+[6 Forms of Power](https://controlyourchaos.wordpress.com/2013/12/17/scrum-masters-toolkit-french-ravens-5-6-forms-of-power/)
+[Psychological Models in Scrum](https://www.youtube.com/watch?v=fyDYpGCuvaA&t=1322s)
+Gun to your head example.
+
+##### 1 Reward and 2 Coercive
+These two forms are the most common in nature. Every animal is susceptible to those. Basically they mean that you can do something for someone in order to receive a reward or avoid punishment. This is exactly the carrot & stick. If you use this power, you will get obedience. But nothing more. So if you want your dog to obey, you can give him or her treats to reinforce good behavior and punish bad. But remember, even if you do that , you might not be able to take control over your dog. Because when you turn around, the sausage will still disappear. Exactly the same applies to humans. If you reward and punish, everything will go towards what you reward and what you punish will be hidden. But apart from that, no creativity can be expected.
+
+##### 3 Given / Formal / Legitimate
+This power is only present in creatures who build societies. Did you ever watch The Dog Whisperer with Cesar Millan? If you did, try to remember what he wanted to achieve. He was the Pack Leader for the dog and taught owners how to do the same. He wanted the dog to be submissive. And this is exactly what you will have if you have formal power over someone – like a manager or a police officer. Someone who is high in social ranks, somehow culturally above someone else. But if you operate with this power, you will have submission and submission only. There is still very little creativity involved.
+
+##### 4 Expert
+Expert power is something that can be described as being respected, because you know a lot or can do something. This is something that has not been observed in any creatures, besides human. Some researchers believe dolphins, elephants, apes and crows may exhibit that power as well, but no hard proof has been found yet.  Working with someone with that power over you, gives you wings to learn. You want to become just like this example someone, so you listen, follow footsteps and try to master this subject. This power gives you learning and conquering difficulties.
+
+##### 5 Referent
+This is a power that’s closest to trust. In large quantities it’s perceived as Charisma. It’s something that produces good feelings and engagement. It’s a power that’s easiest to lose and hardest to gain. You feel that this person is just right, you follow their lead. It’s something good leaders have.
+
+##### 6* Informational
+Why is there an asterisk here? Because this power was added later on, it wasn’t in the original research. This is a power that is present only in informational societies. Where having, withholding or manipulating information is possible. Some also argue if this is not only a different manifestation of a rewarding or coercive power. I will leave it for your consideration.
+
+##### Why do I care?
+Because the higher the power number is, the harder it is to gain, but the bigger the benefits are. It’s easy to coerce someone to do something, threatening them to sack them or promising a yearly bonus.
+
+Also because coercive and rewarding powers are encoded in our reptilian brain, they are our instincts and it’s extremely hard in a critical situation not to use them.  Same applies to given power – only if you give in to your instincts, the more primitive one will take over – the carrot and the stick.
+
+And in critical situations we need creativity, learning and engagement the most – to quickly get out of that crisis.
+
+That’s why Scrum Masters have to have Expert and Referent power but not formal, coercive or rewarding ones. So that they can get the most of people any time.s
