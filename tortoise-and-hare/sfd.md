@@ -75,10 +75,9 @@ Small changes are much less difficult, can be more orderly, a bit boring, less t
 
 But...is this agile? I would say so:
 
->Agile processes promote sustainable development.The sponsors, developers, and users should be able
-to maintain a constant pace indefinitely.
+>Agile processes promote sustainable development.The sponsors, developers, and users should be able to maintain a constant pace indefinitely.
 
-I've told why I think small changes are more sustainable. Organizations need to balance the risk of their activities. Big risks can lead to big failures. Small risks lead to small failuers that are more palatable as learning experiences. The bigger the bet, the fewer you're inclined to take and the more unbalanced your approach. Eggs in one basket, and all that. Smaller bets means more bets, more "better" failures balanced with success. More baskets, fewer broken eggs. Still agile
+I've told why I think small changes are more sustainable. Organizations need to balance the risk of their activities. Big risks can lead to big failures. Small risks lead to small failuers that are more palatable as learning experiences. The bigger the bet, the fewer you're inclined to take and the more unbalanced your approach. Eggs in one basket, and all that. Smaller bets means more bets, more "better" failures balanced with success. More baskets, fewer broken eggs. Still agile.
 
 >Continuous attention to technical excellenceand good design enhances agility.
 
