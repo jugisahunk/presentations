@@ -9,7 +9,7 @@
     3. The technically excellent tortoise
     4. The simple tortoise
     5. The relective tortoise
-3. The Iron Triangle of Organizational Change
+3. The Tradeoffs of Organizational Change
     1. Flex on scope and time, not on quality
     2. The org change triangle
         1. Breadth
