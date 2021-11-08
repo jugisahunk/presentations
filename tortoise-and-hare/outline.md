@@ -4,7 +4,7 @@
     3. I Am the Hare. Koo koo kachoo
     4. The race we started
 2. The Agility of the Tortoise
-    1. Conflation of agility and revolution
+    1. Conflation of agility and speedy revolution
     2. The sustainable tortoise
     3. The technically excellent tortoise
     4. The simple tortoise
