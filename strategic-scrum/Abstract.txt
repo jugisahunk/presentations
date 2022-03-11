@@ -1,0 +1,13 @@
+Focus requires strategy
+
+strategy is a framework, not a plan
+
+results need to be inspected often
+
+measurements are what we inspect
+
+adapt tactics based on what we find
+
+-------------------------
+
+Focus on progressing towards and achieving the goals of the Scrum team is one of Scrum's 5 values. Like many things in Scrum, focus is a simple concept that is very difficult to master. To focus well, a Scrum team must choose valuable goals, hold to those goals doggedly, determine what progress towards them looks like, and learn from what it finds along the way. Imagine a Scrum team is like the crew of an old galleon. Now imagine the ship's captain sets out on a voyage  blindfolded. His ship has no rudder, and his expedition has no aim. You would imagine only abject failure in his future. Likewise, an unfocused Scrum team risks much when it has no clear idea of what it hopes to achieve, how to know it's achieving it, or how to learn from what it finds. In today's talk, we'll examine one way a Scrum team can outfit itself with goals, strategy, tactics, and metrics to successfully navigate the treacherous waters of product development.
