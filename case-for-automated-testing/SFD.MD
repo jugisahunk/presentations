@@ -13,6 +13,7 @@ go slow to go fast
 developers don't want to ship crap
 as automated tests increase
 
+[Business Case for Automated Testing](https://www.thoughtworks.com/en-us/insights/blog/making-business-case-automated-testing)
 # A business case
 Within your own organization, you may want to look at the following, in terms of making your business case:
 
@@ -26,3 +27,21 @@ cost of unexpected down time for your application.  Calculate the cost to your c
 this may be harder to readily quantify, but as your software gets harder to change, you will lose the agility you intended to gain when your company first took on agile software development techniques.  You may want to put together one or two hypothetical or real cases of changes which were much more expensive to deliver due to the cost of manual regression testing than they would have been, had automated testing been in place.  Depending on what your software does, you should be able to assign a business value to software flexibility, in terms of business lost due to delayed time to market.
 ## Total software replacement cost  
 at some point your software will become partially or completely impossible to repair, due to the cost of regression testing the whole.  What is the cost of starting all over?  On the other hand, if your company was planning to totally replace the software during some short time horizon, then maybe your manual testing is fine.
+
+# Why automated testing matters
+## Happy Product Owner
+### Speed to market
+### Maximing time developing features (avoiding rework)
+### Minimizing mean time to repair/restore
+## Happy customers
+### Reduced disruption
+### Needed / wanted features more often
+## Happy developers
+### Pride of workmanship
+### Skills fully utilized (avoid misused skills waste)
+### Comfort
+#### I know my code works
+#### If my code breaks, I can fix it quicly with confidence.
+## Happy CFO
+### Better product cash flow
+### Better return on product investment
