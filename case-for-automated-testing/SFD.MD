@@ -45,3 +45,11 @@ at some point your software will become partially or completely impossible to re
 ## Happy CFO
 ### Better product cash flow
 ### Better return on product investment
+
+# How automated tests bring the value
+## Once written, cheap to run
+## CI/CD checks prevent broken features
+## Developers level up
+### The Developer Advisor
+### PO can talk business case instead of technical details
+### New folks have tests to document the codebase and reduce their learning curve
